@@ -5,7 +5,7 @@ title: Team
 
 # Person A
 
-Short bio ...
+Short bio fdjksdjldk...
 
 
 # Person B
